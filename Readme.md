@@ -5,7 +5,8 @@ Note: it is recommended to use a Python virtual environment. The necessary packa
 *venv* is a lightweight virtual environment module in the Python standard library that serves this purpose.
 
 Example:
-```~/$ python3 -m venv my_venv
+```
+~/$ python3 -m venv my_venv
 ~/$ . my_venv/bin/activate
 (my_venv) ~/$ pip install -r requirements.txt
 ```
